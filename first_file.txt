@@ -1,1 +1,2 @@
 The usual "Hello World!" file!
+Here is some more text, for the sake of doing the exercises.
